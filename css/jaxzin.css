@@ -22,6 +22,10 @@
     border-radius: 6px;
 }
 
+.trailer {
+    height: 1000px;
+}
+
 /* Responsive Docs
 -------------------------------------------------- */
 @media (max-width: 480px) {
